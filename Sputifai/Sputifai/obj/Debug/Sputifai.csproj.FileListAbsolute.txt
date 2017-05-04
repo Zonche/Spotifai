@@ -1,0 +1,5 @@
+C:\Users\Dann\Documents\tareas\PWeb\Sputifai\Sputifai\bin\Sputifai.dll
+C:\Users\Dann\Documents\tareas\PWeb\Sputifai\Sputifai\bin\Sputifai.pdb
+C:\Users\Dann\Documents\tareas\PWeb\Sputifai\Sputifai\obj\Debug\Sputifai.csprojResolveAssemblyReference.cache
+C:\Users\Dann\Documents\tareas\PWeb\Sputifai\Sputifai\obj\Debug\Sputifai.dll
+C:\Users\Dann\Documents\tareas\PWeb\Sputifai\Sputifai\obj\Debug\Sputifai.pdb
